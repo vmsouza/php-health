@@ -86,6 +86,12 @@ stdClass Object
                     [bmr] => 1885
                     [tdee] => 2262
                 )
+            
+            [mifflin_st_jeor] => stdClass Object
+                (
+                    [bmr] => 1625
+                    [tdee] => 1950
+                )
 
         )
 
